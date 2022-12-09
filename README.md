@@ -1,7 +1,7 @@
 # Hi, I'm Miranda 👋
 
 # 💫 About Me:
-😎 I'm an aspiring Software Engineer<br>🌱 Located in Phoenix, Arizona<br>💌 Shoot me an Email or add me on LinkedIn
+😎 I'm an aspiring Software Engineer<br>📍 Located in Phoenix, Arizona<br>💌 Shoot me an Email or add me on LinkedIn
 
 
 ## 🌐 Socials:
